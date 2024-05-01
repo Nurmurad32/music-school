@@ -1,14 +1,14 @@
-# Bistro Boss
+# Music School
 
 This is a music course school website that shows the different categories of musical course their instructor name and price.
 
 
 >
->Live URL : [Bistro Boss]()
+>Live URL : [Music School](https://music-school-three.vercel.app/)
 
 >GitHub Link:
 >
->> Client Side Code : [Bistro Boss Client Side Code]()
+>> Client Side Code : [Music School Client Side Code](https://github.com/Nurmurad32/music-school)
 
 
 ### Features :
